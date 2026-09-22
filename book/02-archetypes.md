@@ -16,13 +16,11 @@ The central question is:
 
 The framework can guide a product's presentation, an organization's voice, or the experience of attending an event. It helps a team decide what to emphasize and how its choices should fit together. A Sage approach might make explanation central; a Jester approach might invite playful participation.
 
-Margaret Mark and Carol S. Pearson apply archetypal thinking to branding in *The Hero and the Outlaw*. Their approach connects organizational identity with stories and values. See [Pearson's description of the book](https://carolspearson.com/books-page/the-hero-and-the-outlaw-building-extraordinary-brands-through-the-power-of-archetypes).
-
-Here, we will use archetypes as a design framework, not a personality test or diagnosis. An archetype is also different from an audience profile: **Creator** names a narrative tendency, while **students seeking affordable ways to express their style** describes a possible audience and need. You still need research to learn what those students actually want.
+Here, we will use archetypes as a design framework. **Archetypes are models, not literal personality diagnoses.** They are not a personality test, and they cannot tell us what a person is really like. An archetype is also different from an audience profile: **Creator** names a narrative tendency, while **students seeking affordable ways to express their style** describes a possible audience and need. You still need research to learn what those students actually want.
 
 ## Twelve Common Archetypes
 
-The following set provides useful starting points. Labels vary across versions of the framework: Rebel is often called Outlaw, and Everyperson also appears as Regular Guy/Gal. Pearson discusses these naming differences in [her overview of the twelve-archetype system](https://carolspearson.com/about/the-pearson-12-archetype-system-human-development-and-evolution).
+The following set provides useful starting points. Labels vary across versions of the framework: Rebel is often called Outlaw, and Everyperson also appears as Regular Guy/Gal.
 
 The audience invitations and shirt applications below are our hypothetical design interpretations. They are not quotations, documented campaigns, or predictions of how everyone will respond.
 
